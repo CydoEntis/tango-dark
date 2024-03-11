@@ -1,0 +1,21 @@
+{
+  "name": "tango-dark",
+  "displayName": "Tango Dark",
+  "description": "Tango Dark Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tango Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tango Dark-color-theme.json"
+      }
+    ]
+  }
+}
